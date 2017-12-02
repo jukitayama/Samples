@@ -1,0 +1,14 @@
+C:\Users\jk_19\Documents\GitHub\C#\DBtoXML\DBtoXML\bin\Debug\DBtoXML.exe.config
+C:\Users\jk_19\Documents\GitHub\C#\DBtoXML\DBtoXML\bin\Debug\DBtoXML.exe
+C:\Users\jk_19\Documents\GitHub\C#\DBtoXML\DBtoXML\bin\Debug\DBtoXML.pdb
+C:\Users\jk_19\Documents\GitHub\C#\DBtoXML\DBtoXML\bin\Debug\EntityFramework.dll
+C:\Users\jk_19\Documents\GitHub\C#\DBtoXML\DBtoXML\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jk_19\Documents\GitHub\C#\DBtoXML\DBtoXML\bin\Debug\System.Data.SQLite.dll
+C:\Users\jk_19\Documents\GitHub\C#\DBtoXML\DBtoXML\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\jk_19\Documents\GitHub\C#\DBtoXML\DBtoXML\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\jk_19\Documents\GitHub\C#\DBtoXML\DBtoXML\bin\Debug\EntityFramework.xml
+C:\Users\jk_19\Documents\GitHub\C#\DBtoXML\DBtoXML\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jk_19\Documents\GitHub\C#\DBtoXML\DBtoXML\bin\Debug\System.Data.SQLite.xml
+C:\Users\jk_19\Documents\GitHub\C#\DBtoXML\DBtoXML\obj\Debug\DBtoXML.csprojResolveAssemblyReference.cache
+C:\Users\jk_19\Documents\GitHub\C#\DBtoXML\DBtoXML\obj\Debug\DBtoXML.exe
+C:\Users\jk_19\Documents\GitHub\C#\DBtoXML\DBtoXML\obj\Debug\DBtoXML.pdb
